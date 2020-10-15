@@ -16,8 +16,12 @@ int correctAnswer = 4;
     else 
     {
         System.out.println(" thats the wrong answer ");
+        
+    while(correctAnswer >= 4){
+     //if the answer is less than 4 then
+      System.out.println("The answer" + correctAnswer + "is correct because 8 + 4 = 12");
+      correctAnswer++; 
+      }
     }
   }
 }
-
- 
