@@ -8,12 +8,12 @@ class Main {
    System.out.println("what is 12 - 8?");
    int number = scan.nextInt();
    
-boolean isCorrectAnswer = x; 
-    if (x == 4)
+int correctAnswer = 4; 
+    if (4 == 4)
     {
         System.out.println(" correct ");
     }
-    else
+    else 
     {
         System.out.println(" thats the wrong answer ");
     }
