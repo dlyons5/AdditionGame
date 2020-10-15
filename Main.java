@@ -10,12 +10,6 @@ class Main {
     System.out.println("choose a number that adds to equal 12 (so like what + the number you choose = 12");
     int number2 = scan.nextInt();
     //now just make loops 
-  
-  
-  
 
-
-
-  
   }
 }
